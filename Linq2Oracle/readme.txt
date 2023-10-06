@@ -1,0 +1,2 @@
+利用已经能用的Oracle.DataAccess.dll和OracleCommon.dll来开发一个orm
+基本照着linq2db来做，需要利用特性来搞一下
